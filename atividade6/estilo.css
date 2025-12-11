@@ -21,6 +21,9 @@ section{
     box-shadow: 5px 5px 5px white;
 }
 
+select#flista{
+    width: 150px;
+}
 div {
     text-align: center;
     padding: 5px;
